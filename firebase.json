@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "src",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -12,7 +12,7 @@
         "headers": [
           {
             "key": "Access-Control-Allow-Origin",
-            "value": "*"
+            "value": "dartpad.dev"
           }
         ]
       }
