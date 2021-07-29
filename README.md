@@ -1,6 +1,6 @@
-# DartPad Workshop Template
+A starter project for DartPad Workshops
 
-## Quickstart (Firebase Hosting)
+# Quickstart (Firebase Hosting)
 
 1. Fork this repository
 
