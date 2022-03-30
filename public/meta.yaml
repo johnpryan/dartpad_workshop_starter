@@ -1,13 +1,13 @@
-name: Example workshop
+name: ShrinkWrap vs Slivers
 
 # Accepts 'flutter' or 'dart'
 type: flutter
 
-# Configuration for each step 
+# Configuration for each step
 steps:
-  - name: Step 1
+  - name: List of lists with ShrinkWrap
     directory: step_01
     has_solution: true
-  - name: Step 2
+  - name: List of lists with Slivers
     directory: step_02
     has_solution: false

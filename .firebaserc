@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "<FIREBASE_PROJECT_ID>"
+    "default": "fdr-shrinkwrap-slivers"
   }
 }

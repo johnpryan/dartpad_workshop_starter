@@ -1,18 +1,14 @@
 {
   "hosting": {
     "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ],
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "headers": [
       {
-        "source": "**",
+        "source": "**/*",
         "headers": [
           {
             "key": "Access-Control-Allow-Origin",
-            "value": "https://dartpad.dev"
+            "value": "*"
           }
         ]
       }
